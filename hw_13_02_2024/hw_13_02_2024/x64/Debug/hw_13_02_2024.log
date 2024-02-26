@@ -1,0 +1,3 @@
+﻿  hw_13_02_2024.cpp
+C:\Projects in VS\hw_13_02_2024\hw_13_02_2024\hw_13_02_2024.cpp(415,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hw_13_02_2024.vcxproj -> C:\Projects in VS\hw_13_02_2024\x64\Debug\hw_13_02_2024.exe
